@@ -1,0 +1,12 @@
+//a program to print my name
+#include<stdio.h>
+
+
+int main()
+{
+	char myname[8] = "Brenda";
+	
+	printf("\n\tMy name is %s", myname);
+		
+	return 0;
+}
