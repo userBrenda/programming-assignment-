@@ -1,0 +1,17 @@
+// program to run a for loop
+ 
+#include<stdio.h>
+int main()
+   {
+    int n;
+    
+    for (n=0; n<=50; n++)
+    {
+    
+       printf("%d\t", n);
+    
+    } 
+    printf("\nfor loop body finished");
+ 
+   return 0;
+  }

@@ -1,0 +1,19 @@
+// program to run a do-while loop
+ 
+#include<stdio.h>
+int main()
+   {
+    int n=30;
+    
+    do{
+    
+    printf("enter value");
+    scanf("%d", &n);
+    printf("the value is:%d\n",n);
+    
+    }while(n !=20);
+   
+    printf("do_while loop body finished");
+ 
+   return 0;
+  }
