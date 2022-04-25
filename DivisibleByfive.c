@@ -1,3 +1,4 @@
+//program to determine if a no is divisible by five or not
 #include <stdio.h>
 
 int main(){
